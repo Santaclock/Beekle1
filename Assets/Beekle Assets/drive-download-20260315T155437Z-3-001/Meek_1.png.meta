@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6f22c7ac93a1e44528eb8b8d12870203
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4146798672754641277
+    second: Meek_1_0
+  - first:
+      213: -6521808398692937412
+    second: Meek_1_1
+  - first:
+      213: -5341736311045062271
+    second: Meek_1_2
+  - first:
+      213: -8975855952900653413
+    second: Meek_1_3
+  - first:
+      213: -5645697555936208524
+    second: Meek_1_4
+  - first:
+      213: -3964563291457270173
+    second: Meek_1_5
+  - first:
+      213: -4754416593793201220
+    second: Meek_1_6
+  - first:
+      213: -141065066325668054
+    second: Meek_1_7
+  - first:
+      213: -5502186613558620533
+    second: Meek_1_8
+  - first:
+      213: 3809524479587827473
+    second: Meek_1_9
+  - first:
+      213: 8708218491348228792
+    second: Meek_1_10
+  - first:
+      213: -4106964905946497818
+    second: Meek_1_11
+  - first:
+      213: -3323575600909770049
+    second: Meek_1_12
+  - first:
+      213: 8772645243114061822
+    second: Meek_1_13
+  - first:
+      213: -2498599867318364087
+    second: Meek_1_14
+  - first:
+      213: -5463639744435223032
+    second: Meek_1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meek_1_0
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 943
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d790a941c636c8930800000000000000
+      internalID: 4146798672754641277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_1
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 891
+        width: 248
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c319fbeb0d1ed75a0800000000000000
+      internalID: -6521808398692937412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_2
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 971
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1818a5870275ed5b0800000000000000
+      internalID: -5341736311045062271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 122
+        width: 1774
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef744219a5f6380800000000000000
+      internalID: -8975855952900653413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_4
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 758
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479912d2cf376a1b0800000000000000
+      internalID: -5645697555936208524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_5
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 488
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ec22b01ba0bf8c0800000000000000
+      internalID: -3964563291457270173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 79
+        width: 166
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbcbb44c4be40eb0800000000000000
+      internalID: -4754416593793201220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 69
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f017fc116da0ef0800000000000000
+      internalID: -141065066325668054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 89
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ecde24d6e44a3b0800000000000000
+      internalID: -5502186613558620533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 83
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fbcf894562ed430800000000000000
+      internalID: 3809524479587827473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 94
+        width: 248
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba9c4b649ec9d870800000000000000
+      internalID: 8708218491348228792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_11
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 93
+        width: 133
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec301c7d212107c0800000000000000
+      internalID: -4106964905946497818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 50
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb22e9b999940e1d0800000000000000
+      internalID: -3323575600909770049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 65
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff75508e52beb970800000000000000
+      internalID: 8772645243114061822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94896a8a8a0335dd0800000000000000
+      internalID: -2498599867318364087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meek_1_15
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 45
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068b3c99904d24b0800000000000000
+      internalID: -5463639744435223032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Meek_1_0: 4146798672754641277
+      Meek_1_1: -6521808398692937412
+      Meek_1_10: 8708218491348228792
+      Meek_1_11: -4106964905946497818
+      Meek_1_12: -3323575600909770049
+      Meek_1_13: 8772645243114061822
+      Meek_1_14: -2498599867318364087
+      Meek_1_15: -5463639744435223032
+      Meek_1_2: -5341736311045062271
+      Meek_1_3: -8975855952900653413
+      Meek_1_4: -5645697555936208524
+      Meek_1_5: -3964563291457270173
+      Meek_1_6: -4754416593793201220
+      Meek_1_7: -141065066325668054
+      Meek_1_8: -5502186613558620533
+      Meek_1_9: 3809524479587827473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
