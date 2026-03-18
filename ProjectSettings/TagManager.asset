@@ -16,7 +16,7 @@ TagManager:
   - Foreground
   - Interact
   - Ground
-  - 
+  - Wall
   - 
   - 
   - 
@@ -48,6 +48,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 1767270475
+    locked: 0
+  - name: Wall
+    uniqueID: 3445822673
     locked: 0
   - name: Interact
     uniqueID: 3517871279

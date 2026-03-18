@@ -4,9 +4,11 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public float jumpForce = 10f;
+    public float wallJumpForce = 8f;
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private bool isGrounded;
+    private bool isTouchingWall;
 
     public Sprite idleSprite;
     public Sprite walkSprite;
@@ -26,9 +28,16 @@ public class PlayerController : MonoBehaviour
         if (moveX > 0) spriteRenderer.flipX = true;
         if (moveX < 0) spriteRenderer.flipX = false;
 
+        // Regular jump
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        }
+
+        // Wall jump
+        if (Input.GetButtonDown("Jump") && isTouchingWall && !isGrounded)
+        {
+            rb.linearVelocity = new Vector2(-moveX * wallJumpForce, jumpForce);
         }
 
         // Swap sprites
@@ -46,6 +55,10 @@ public class PlayerController : MonoBehaviour
         {
             isGrounded = true;
         }
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Wall"))
+        {
+            isTouchingWall = true;
+        }
     }
 
     void OnCollisionExit2D(Collision2D collision)
@@ -53,6 +66,10 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
             isGrounded = false;
+        }
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Wall"))
+        {
+            isTouchingWall = false;
         }
     }
 }
